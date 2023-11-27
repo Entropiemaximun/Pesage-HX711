@@ -14,9 +14,9 @@ const uint16_t WAIT_TIME = 100;
                                 
 #define MAX_DEVICES 4
 
-#define CLK_PIN  11  // pinoche MOSI
-#define DATA_PIN 13  // pinoche SCK
-#define CS_PIN   10  // pinnoche SS
+#define CLK_PIN  13 
+#define DATA_PIN 11  
+#define CS_PIN   10  
 
 #define Tare 7
 int Tare0=0;
